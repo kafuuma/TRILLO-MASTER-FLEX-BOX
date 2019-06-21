@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## NEXTER CSS GRID PROJECT
 
-You can use the [editor on GitHub](https://github.com/kafuuma/TRILLO-MASTER-FLEX-BOX/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## PROJECT PREVIEW
+This project is built to level up on advanced css with flex-box.
+Hosted on heroku [HERE](https://trillo-flexbox.herokuapp.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## PROJECT FEATURES
 
-### Markdown
+Trillo is a webpage for a world class hotel
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Built With
 
-```markdown
-Syntax highlighted code block
+* [HTML5](https://www.w3.org/html/) - Hypertext Markup Language.
+* [CSS GRID](https://www.w3.org/Style/CSS/Overview.en.html) - Cascading Style Sheets.
+* [GIT](https://git-scm.com/) - A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kafuuma/TRILLO-MASTER-FLEX-BOX/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Developer
+- _**arkafuuma@gmail.com**_
+- _**@henryKafuuma**_
